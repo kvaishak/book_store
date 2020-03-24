@@ -5,7 +5,7 @@ Playing around with Docker Container and its implementation of micro-service arc
 * Docker must be installed and running.
 * Pull the code and navigate inside the folder and run `docker-compose up`. This will start the docker multi-container setup.
 * Navigate to `http://localhost:5000/` you will see the page **Welcome to your Book Store** page up and running.
-* For adding data to the *book-library* refer to this API Documentation
+* For adding data to the *book-library* refer to [this](https://github.com/vaishak47/book_store/blob/master/book-library/README.md) API Documentation
 
 ## Architecture
 Book_store consists of two micro-service or containers working together they are
