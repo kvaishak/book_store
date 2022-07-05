@@ -1,5 +1,5 @@
 # book_store
-Playing around with Docker Container and its implementation of micro-service architecture.
+A simple micro-service architecture implementation of a Book Store API using Docker container infra structure.
 
 ## Usage
 * Docker must be installed and running.
